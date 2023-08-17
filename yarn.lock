@@ -1429,11 +1429,11 @@
   dependencies:
     medium-zoom "^1.0.4"
 
-"@vuepress/plugin-medium-zoom@^1.9.9":
-  version "1.9.9"
-  resolved "https://registry.yarnpkg.com/@vuepress/plugin-medium-zoom/-/plugin-medium-zoom-1.9.9.tgz#a6321fb944c5cb3ab840c01b943e23046b37b2dd"
+"@vuepress/plugin-medium-zoom@^1.9.10":
+  version "1.9.10"
+  resolved "https://registry.yarnpkg.com/@vuepress/plugin-medium-zoom/-/plugin-medium-zoom-1.9.10.tgz#b5907613057143ddb057882973c6a9293ae21b24"
   dependencies:
-    "@vuepress/types" "1.9.9"
+    "@vuepress/types" "1.9.10"
     medium-zoom "^1.0.4"
 
 "@vuepress/plugin-nprogress@1.9.10":
@@ -1479,20 +1479,6 @@
     toml "^3.0.0"
     upath "^1.1.0"
 
-"@vuepress/shared-utils@1.9.9":
-  version "1.9.9"
-  resolved "https://registry.yarnpkg.com/@vuepress/shared-utils/-/shared-utils-1.9.9.tgz#f6561ec2264d54e4e459d17678766ffe09f4bfc6"
-  dependencies:
-    chalk "^2.3.2"
-    escape-html "^1.0.3"
-    fs-extra "^7.0.1"
-    globby "^9.2.0"
-    gray-matter "^4.0.1"
-    hash-sum "^1.0.2"
-    semver "^6.0.0"
-    toml "^3.0.0"
-    upath "^1.1.0"
-
 "@vuepress/theme-default@1.9.10":
   version "1.9.10"
   resolved "https://registry.yarnpkg.com/@vuepress/theme-default/-/theme-default-1.9.10.tgz#6e916e2164ab3d9cc9567610e4ada9c3a568f206"
@@ -1511,14 +1497,6 @@
 "@vuepress/types@1.9.10":
   version "1.9.10"
   resolved "https://registry.yarnpkg.com/@vuepress/types/-/types-1.9.10.tgz#5b8d112a0d7dbaffce1e5d39b66754412c83ecc6"
-  dependencies:
-    "@types/markdown-it" "^10.0.0"
-    "@types/webpack-dev-server" "^3"
-    webpack-chain "^6.0.0"
-
-"@vuepress/types@1.9.9":
-  version "1.9.9"
-  resolved "https://registry.yarnpkg.com/@vuepress/types/-/types-1.9.9.tgz#7c21e4c91c13e58e2ff303ded9ad7425805cb07d"
   dependencies:
     "@types/markdown-it" "^10.0.0"
     "@types/webpack-dev-server" "^3"
